@@ -1,0 +1,8 @@
+*.bin
+*.elf
+*.hex
+*.o
+*.su
+*.objdump
+*.readelf
+*.log
